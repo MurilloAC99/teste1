@@ -1,1 +1,4 @@
+val_1 = hello
+val_2 = world 
 
+print (val_1 , val_2) 
